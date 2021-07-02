@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - qrcode_descriptor (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - qrcode_descriptor (from `.symlinks/plugins/qrcode_descriptor/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  qrcode_descriptor:
+    :path: ".symlinks/plugins/qrcode_descriptor/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  qrcode_descriptor: fec4a0a1a42c64e031d6e071fba4152f6bbf9933
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
